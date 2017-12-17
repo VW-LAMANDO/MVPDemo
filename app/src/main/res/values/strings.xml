@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="name_right">Name valid</string>
+    <string name="name_wrong">Name invalid</string>
+    <string name="ps_right">Password valid</string>
+    <string name="ps_wrong">Password invalid</string>
+    <string name="go_home">Go home</string>
+</resources>
